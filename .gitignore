@@ -1,0 +1,9 @@
+# Raw dataset (download from the UNSW-NB15 site)
+UNSW_NB15_training-set.csv
+UNSW_NB15_testing-set.csv
+
+# Large generated file (rebuilt by the script)
+combined_traffic.csv
+
+# macOS
+.DS_Store
